@@ -29,7 +29,7 @@ Abdulrahman Shahzad
 ![](/Images/Activity5B.png)
 
 **Activity 6**
-
+[Link to EP repo]: https://github.com/0x0xnull/ECE444-F2022-EP
 **Activity 7**
 
 **Activity 8**
