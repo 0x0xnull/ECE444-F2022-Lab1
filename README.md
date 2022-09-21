@@ -16,7 +16,7 @@ Abdulrahman Shahzad
 
 **Activity 4**
 
-[Link to your teammate's repo] :
+[Link to your teammate's repo] : https://github.com/shashPanwar/ECE444-F2022-Lab1
 
 [Screenshot of the commit you made to your teammate's repo]
 ![](/Images/Activity4A.png)
