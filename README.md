@@ -25,6 +25,8 @@ Abdulrahman Shahzad
 ![](/Images/Activity4B.png)
 
 **Activity 5**
+![](/Images/Activity5A.png)
+![](/Images/Activity5B.png)
 
 **Activity 6**
 
