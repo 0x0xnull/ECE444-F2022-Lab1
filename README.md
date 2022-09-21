@@ -13,3 +13,21 @@ Abdulrahman Shahzad
 **Activity 3**
 
 ![](/Images/Activity3.png)
+
+**Activity 4**
+
+[Link to your teammate's repo] :
+
+[Screenshot of the commit you made to your teammate's repo]
+![](/Images/Activity4A.png)
+
+[Screenshot of the commit your teammate made to your repo]
+![](/Images/Activity4B.png)
+
+**Activity 5**
+
+**Activity 6**
+
+**Activity 7**
+
+**Activity 8**
