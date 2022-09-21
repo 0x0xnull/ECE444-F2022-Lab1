@@ -5,3 +5,7 @@ Abdulrahman Shahzad
 **Activity 1**
 
 ![](/Images/Activity1.png)
+
+**Activity 2**
+
+![](/Images/Activity2.png)
