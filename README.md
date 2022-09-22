@@ -40,7 +40,7 @@ Rebase Command
 
 **Activity 8**
 
-New Tab
+Added New Tab
 ![](/Images/Activity8A.png)
 Rebase Command
 ![](/Images/Activity8B.png)
