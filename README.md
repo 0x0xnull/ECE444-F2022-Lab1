@@ -25,8 +25,9 @@ Abdulrahman Shahzad
 ![](/Images/Activity4B.png)
 
 **Activity 5**
-![](/Images/Activity5A.png)
-![](/Images/Activity5B.png)
+![](/Images/Activity5A1.png)
+![](/Images/Activity5A2.png)
+![](/Images/Activity5A3.png)
 
 **Activity 6**
 [Link to EP repo]: https://github.com/0x0xnull/ECE444-F2022-EP
