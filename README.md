@@ -30,6 +30,11 @@ Abdulrahman Shahzad
 
 **Activity 6**
 [Link to EP repo]: https://github.com/0x0xnull/ECE444-F2022-EP
+
 **Activity 7**
+Home Page with my name
+![](/Images/Activity7A.png)
+Rebase Command
+![](/Images/Activity7B.png)
 
 **Activity 8**
